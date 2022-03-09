@@ -40,5 +40,7 @@ message AuthorizationResponse {
 
 // 3. Add the service definitions
 service AuthenticationService {
+  rpc authenticate(AuthenticationRequest) returns (AuthenticationResponse);
+  rpc authenticate(AuthorizationRequest) returns (AuthorizationResponse);
 }
 
