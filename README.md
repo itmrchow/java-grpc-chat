@@ -1,4 +1,4 @@
 gRPC Java Workshop
 ------------------
 
-See [instructions](http://retroryan8080.gitlab.io/grpc-java-workshop/)
+參考： [instructions](http://retroryan8080.gitlab.io/grpc-java-workshop/)
